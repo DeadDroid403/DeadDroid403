@@ -87,13 +87,13 @@
 ---
 
 ## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadDroid403)<br>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403)<br>
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2012549)<br>
-[![CTFtime](https://img.shields.io/badge/CTFtime-2D2D2D?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/392990)<br>
-[![TraceBash](https://img.shields.io/badge/TraceBash_CTF_Team-0F172A?style=for-the-badge&logo=vercel&logoColor=22C55E)](http://tracebash.free.nf)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadDroid403)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2012549)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deaddroid403)<br>
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user)<br>
+[![CTFtime](https://img.shields.io/badge/CTFtime-2D2D2D?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/392990)
+[![TraceBash](https://img.shields.io/badge/TraceBash_CTF_Team-0F172A?style=for-the-badge&logo=vercel&logoColor=22C55E)](http://tracebash.free.nf)<br>
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/DeadDroid)
 
 ---
