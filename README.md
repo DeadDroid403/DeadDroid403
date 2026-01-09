@@ -3,13 +3,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
 </h1>
 
-**Second year BCA Computer Science and Engineering student** with a **current CGPA of 6.8**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
+**Second year BCA Computer Science and Engineering student** with a **current CGPA of 7.6**. My core interests lie in **cybersecurity, penetration testing, cryptography, and cloud security**. I specialize in **Vulnerability Assessment and Penetration Testing (VAPT)**, **Ethical Hacking**, and **Security Automation** — with hands-on experience across real-world red teaming, compliance auditing, and infrastructure hardening.
 
 ---
 
 ## 📜 Certifications & Trainings
 
-* **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals
+* **Qualys Web Application Scanning Certification**
+* **Postman API Fundamentals Student Expert**
+* **Cisco NetAcad:** CCNA v7, Networking Basics, Ethical Hacker, Packet Tracer, Endpoint Security
+* **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
+* **Microsoft Learn:** SC-200, Linux Shell, GitHub
+* **AWS Educate:** Getting Started with Security (AWS IAM)
+* **EC-Council CodeRed:**  Top 100 Interesting Bugs, Cloud Security, Web Forensics
+* **HackTheBox Modules:** File inclusion, linux fundamentals, Web Attacks, etc
+* **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals, Web Application Pentesting
 * **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
 
 ---
@@ -17,66 +25,78 @@
 ## 🛠️ Technical Skills
 
 * **Cybersecurity & VAPT:** Ethical Hacking, App Scanning, Incident Response, Threat Intelligence
-* **Cloud Security:** AWS IAM, Microsoft Sentinel, Terraform
-* **Programming:** Javascript, Python, C, C++
+* **Cloud Security:** AWS IAM, Terraform 
+* **Programming:** Javascript, Python, C, C++, PHP
 * **Scripting:** Bash, PowerShell
-* **Database:** MySQL, Oracle SQL
-* **Tools & Platforms:** GitHub, Docker, Nessus, Acunetix
+* **Database:** MySQL, SQLITE
+* **Tools & Platforms:** GitHub, Docker, Regex, Nessus, Acunetix
 * **Networking & Analysis:** Network Security, Packet Tracing
 
 ---
 
 ## 🏆 Achievements
 
+* **🥇 1st Place – Shaastra CTF 2025 (IIT Madras)**  
+  Led Team TraceBash to a first-place finish at a national-level CTF hosted by IIT Madras.
 
-* **🏆 Pentathon 2025 Finalist**
-  Secured **Top 40 (Offline Category)** at *Pentathon 2025* (May 2025) as **Individual** at GGSIPU, Delhi.
+* **🎖️ Finalist – Indian Army Terrier Cyber Quest 2025**  
+  Selected among the **Top 65 out of 6,600+** participants nationwide for on-site finals conducted by the Indian Army and CyberPeace.
 
-* **🌐 TryHackMe Global Top 3%**
-  Ranked among top global learners for consistently solving red-team and exploit simulation labs.
+* **🏆 Pentathon 2025 Finalist (Offline)**  
+  Secured **Top 40** at Pentathon 2025 (GGSIPU, Delhi) in the offline individual category.
 
-* **🏅 CTF Time India Top 40**
-  Ranked among the Top 40 CTF teams nationally in India with Team, TraceBash — competing alongside some of the India’s most legendary cybersecurity teams.
+* **📊 CTFtime India Top 20 – Team TraceBash**  
+  Ranked among the **Top 20 CTF teams in India**, competing across national and international CTF events.
+
+* **🌐 TryHackMe Global Top 3%**  
+  Ranked among the top global learners for consistent performance in red-team and exploitation labs.
+
+* **🧪 PortSwigger Web Security Academy – Completed**  
+  Completed all labs covering SQLi, XSS, authentication flaws, access control, and business logic vulnerabilities.
 
 ---
 
-## **👨‍💻 Tech Stack**  
+## 👨‍💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Regex](https://img.shields.io/badge/regex-%23000000.svg?style=for-the-badge&logo=regular-expressions&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) <br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://example.com) <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://example.com) </br>
+[![Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadDroid403) <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/DeadDroid403) </br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:info.example.com) <br/>
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://example.com) </br>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403) </br>
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeadDroid403) </br>
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://example.com) </br>
+[![CTFtime](https://img.shields.io/badge/CTFtime-000000?logo=ctftime&logoColor=white)](https://ctftime.org/team/392990) </br>
+[![TraceBash](https://img.shields.io/badge/TraceBash%20CTF%20Team-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](http://tracebash.free.nf) </br>
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/deaddroid403) </br>
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user) </br>
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6F00?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/DeadDroid) </br>
 
 ---
 
@@ -99,15 +119,15 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=DeadDroid403&show_icons=true&theme=radical&hide_border=false" 
     width="55%" 
-    style="display: inline-block; height: 0px;"
+    style="display: inline-block;"
   />
 
   <!-- 🧬 Top Languages (Pie) [Responsive] -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadDroid403&theme=radical&layout=pie&hide=html,css,javascript,typescript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
-  width="35%" 
-  style="display: inline-block;"
-/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadDroid403&theme=radical&layout=pie&hide=html,css,javascript,typescript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
+    width="35%" 
+    style="display: inline-block;"
+  />
 
 </div>
 
