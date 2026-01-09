@@ -86,14 +86,15 @@
 
 ---
 
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/DeadDroid403) </br>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403) </br>
-[![CTFtime](https://img.shields.io/badge/CTFtime-000000?logo=ctftime&logoColor=white)](https://ctftime.org/team/392990) </br>
-[![TraceBash](https://img.shields.io/badge/TraceBash%20CTF%20Team-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](http://tracebash.free.nf) </br>
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/deaddroid403) </br>
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user) </br>
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6F00?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/DeadDroid) </br>
+## 🌐 Socials
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadDroid403)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)
+[![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/392990)
+[![TraceBash](https://img.shields.io/badge/TraceBash_CTF_Team-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF00)](http://tracebash.free.nf)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deaddroid403)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6F00?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/DeadDroid)
 
 ---
 
@@ -132,9 +133,9 @@
 
 ### Who let the Snake out 🐍🗿
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
 </picture>
 
 ---
