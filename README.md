@@ -87,12 +87,11 @@
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadDroid403) <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/DeadDroid403) </br>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadDroid403) </br>
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?logo=ctftime&logoColor=white)](https://ctftime.org/team/392990) </br>
 [![TraceBash](https://img.shields.io/badge/TraceBash%20CTF%20Team-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](http://tracebash.free.nf) </br>
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/deaddroid403) </br>
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/deaddroid403) </br>
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/deaddroid?type=user) </br>
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6F00?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/DeadDroid) </br>
 
