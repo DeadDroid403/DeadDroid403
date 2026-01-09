@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=%F0%9F%94%91%20Dead%20Droid%20%E2%80%94%20Securing%20Systems.%20Breaking%20Boundaries.%20%F0%9F%94%A5&fontColor=FF003C&fontSize=28&color=0F0F0F,1C1C1C,2C3E50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=%F0%9F%94%91%20Dead%20Droid%20%E2%80%94%20Securing%20Systems.%20Breaking%20Boundaries.%20%F0%9F%94%A5&fontColor=FF003C&fontSize=28&color=0F0F0F,1C1C1C,2C3E50&animation=fadeIn" />
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FA003F&center=true&vCenter=true&width=700&lines=VAPT+Specialist+%7C+Cyber+Red+Teamer;Cloud%3F+Locked.+Shells%3F+Spawned.;Custom+Payloads.+On+Demand.;Hashing+Brains+with+ShadowHash+🧠;Docs+Lie%2C+Packets+Don't." />
 </h1>
 
