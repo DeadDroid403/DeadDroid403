@@ -115,17 +115,17 @@
 
   <!-- 🧾 Extra GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DeadDroid403&show_icons=true&theme=radical&hide_border=false" 
+    src="https://my-github-readme-stats-api.vercel.app/api?username=DeadDroid403&show_icons=true&theme=radical&hide_border=false" 
     width="55%" 
-    style="display: inline-block;"
+    style="display: inline-block; height: 0px;"
   />
 
-  <!-- 🧬 Top Languages (Pie) [Responsive] -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadDroid403&theme=radical&layout=pie&hide=html,css,javascript,typescript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=false" 
-    width="35%" 
-    style="display: inline-block;"
-  />
+  <!-- 🧬 Top Languages (Pie) -->
+<img 
+  src="https://my-github-readme-stats-api.vercel.app/api/top-langs/?username=DeadDroid403&theme=radical&layout=pie&exclude_repo=ShadowHash-All-in-One-Crypto-Solution,Portfolio,DeadDroid403.github.io&hide=css,typescript&langs_count=16&size_weight=0.5&count_weight=0.5&hide_border=false" 
+  width="35%" 
+  style="display: inline-block;" 
+/>
 
 </div>
 
@@ -133,9 +133,9 @@
 
 ### Who let the Snake out 🐍🗿
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeadDroid403/DeadDroid403/output/github-snake.svg" />
 </picture>
 
 ---
