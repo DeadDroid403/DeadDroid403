@@ -15,7 +15,6 @@
 * **Forage Cybersecurity Job Simulations:** Mastercard, Telstra, ANZ, AIG, TCS, PwC, Deloitte, Datacom, Commonwealth Bank
 * **Microsoft Learn:** SC-200, Linux Shell, GitHub
 * **AWS Educate:** Getting Started with Security (AWS IAM)
-* **EC-Council CodeRed:**  Top 100 Interesting Bugs, Cloud Security, Web Forensics
 * **HackTheBox Modules:** File inclusion, linux fundamentals, Web Attacks, etc
 * **TryHackMe Learning Paths:** Jr Penetration Tester, Web Fundamentals, Web Application Pentesting
 * **Udemy:** Complete Ethical Hacking Bootcamp, ParrotOS Ethical Hacking Course
